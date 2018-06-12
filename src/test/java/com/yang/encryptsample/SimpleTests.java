@@ -217,5 +217,8 @@ public class SimpleTests {
 		System.out.println("用公钥解密后的字符串为：" + target2);
 		System.out.println();
 
+		System.out.println("YtuUbx/2Scwl7uhBm2L5jLzxJ8G10/jeyKz+1mTJ6xwtjCjyeZH3mB2NmMMc1T8qTbUvqm/TJj8kKThq7XECDA==".length());
+		System.out.println("bJ9YgWnLZnvdPauI+LHpFMwUMdyxNE4BvJXlkmLdU6QYlG+5gjaNUBA9QTNQg1NY6oWp3M6HXQAxk8QlGbRs5w==".length());
+
 	}
 }
